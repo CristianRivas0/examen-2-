@@ -1,4 +1,6 @@
-
+body.fondo {
+    background-color: salmon;
+}
 
 p.cripto {
     font-style: italic;
@@ -8,9 +10,9 @@ p.cripto {
 section.eth {
     background-color: white;
 }
-span.pie {
+p.pie {
     background-color: yellow;
 }
-p.cristian {
+span.cristian {
     color: red;
 }
