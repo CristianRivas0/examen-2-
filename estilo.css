@@ -1,7 +1,8 @@
+body.fondo {
+    background-color: salmon;
+}
+
 p.cripto {
     font-style: italic;
     
-}
-body.fondo {
-    background-color: salmon;
 }
