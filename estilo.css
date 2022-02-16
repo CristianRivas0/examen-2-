@@ -1,12 +1,7 @@
 body.fondo {
     background-color: salmon;
 }
-
-p.cripto {
-    font-style: italic;
-    
-}
-
+   
 section.eth {
     background-color: white;
 }
@@ -15,4 +10,11 @@ p.pie {
 }
 span.cristian {
     color: red;
+
+}
+p.azul {
+    color: blue;
+}
+div.bitcoin {
+
 }
